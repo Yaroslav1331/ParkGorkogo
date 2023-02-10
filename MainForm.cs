@@ -19,14 +19,25 @@ namespace SantoGost
             database.openConnection();
             SqlDataAdapter sqlDataAdapter = new SqlDataAdapter();
             DataTable table = new DataTable();
+            DataTable table2 = new DataTable();
 
             string querystring = $"select * from Service_Table";
             SqlCommand command = new SqlCommand(querystring, database.GetConnection());
 
-            database.closeConnection();
+
             sqlDataAdapter.SelectCommand = command;
             sqlDataAdapter.Fill(table);
             dataGridView1.DataSource = table;
+
+
+            querystring = $"select * from Order_Table";
+            command = new SqlCommand(querystring, database.GetConnection());
+
+            database.closeConnection();
+            sqlDataAdapter.SelectCommand = command;
+            sqlDataAdapter.Fill(table2);
+
+            dataGridView2.DataSource = table2;
             database.closeConnection();
         }
 

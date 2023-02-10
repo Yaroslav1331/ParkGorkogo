@@ -24,3 +24,15 @@ C:\Users\JW\Desktop\SantoGost\obj\Debug\SantoGost.csproj.CoreCompileInputs.cache
 C:\Users\JW\Desktop\SantoGost\obj\Debug\SantoGost.exe
 C:\Users\JW\Desktop\SantoGost\obj\Debug\SantoGost.pdb
 C:\Users\JW\Desktop\SantoGost\obj\Debug\SantoGost.AddOrderForm.resources
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.csproj.AssemblyReference.cache
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.AddOrderForm.resources
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.LoginForm.resources
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.MainForm.resources
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.Properties.Resources.resources
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.csproj.GenerateResource.cache
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.csproj.CoreCompileInputs.cache
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.exe
+C:\Users\JW\Desktop\ParkGorkogo-main\obj\Debug\SantoGost.pdb
+C:\Users\JW\Desktop\ParkGorkogo-main\bin\Debug\SantoGost.exe.config
+C:\Users\JW\Desktop\ParkGorkogo-main\bin\Debug\SantoGost.exe
+C:\Users\JW\Desktop\ParkGorkogo-main\bin\Debug\SantoGost.pdb
